@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|d:\\trongdc\\working\\2025\\project\\apidocker\\trongdc_demodocker\\trongdc_demodocker\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|solutionrelative:trongdc_demodocker\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|d:\\trongdc\\working\\2025\\project\\apidocker\\trongdc_demodocker\\trongdc_demodocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|solutionrelative:trongdc_demodocker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|d:\\trongdc\\working\\2025\\project\\apidocker\\trongdc_demodocker\\trongdc_demodocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|solutionrelative:trongdc_demodocker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|d:\\trongdc\\working\\2025\\project\\apidocker\\trongdc_demodocker\\trongdc_demodocker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|solutionrelative:trongdc_demodocker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|d:\\trongdc\\working\\2025\\project\\apidocker\\trongdc_demodocker\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{70711C5A-D72B-4262-BF97-FD64046EF8DE}|Trongdc_DemoDocker\\Trongdc_DemoDocker.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\Trongdc_DemoDocker\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Trongdc_DemoDocker\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\Trongdc_DemoDocker\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Trongdc_DemoDocker\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:34:32.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\Trongdc_DemoDocker\\Program.cs",
+              "RelativeDocumentMoniker": "Trongdc_DemoDocker\\Program.cs",
+              "ToolTip": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\Trongdc_DemoDocker\\Program.cs",
+              "RelativeToolTip": "Trongdc_DemoDocker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:42:34.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T16:41:12.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\Trongdc_DemoDocker\\appsettings.json",
+              "RelativeDocumentMoniker": "Trongdc_DemoDocker\\appsettings.json",
+              "ToolTip": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\Trongdc_DemoDocker\\appsettings.json",
+              "RelativeToolTip": "Trongdc_DemoDocker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T16:40:35.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\Trongdc_DemoDocker\\Dockerfile",
+              "RelativeDocumentMoniker": "Trongdc_DemoDocker\\Dockerfile",
+              "ToolTip": "D:\\Trongdc\\Working\\2025\\Project\\ApiDocker\\Trongdc_DemoDocker\\Trongdc_DemoDocker\\Dockerfile",
+              "RelativeToolTip": "Trongdc_DemoDocker\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-07T15:28:01.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

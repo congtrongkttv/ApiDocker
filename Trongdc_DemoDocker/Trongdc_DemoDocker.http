@@ -1,0 +1,6 @@
+@Trongdc_DemoDocker_HostAddress = http://localhost:5108
+
+GET {{Trongdc_DemoDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
